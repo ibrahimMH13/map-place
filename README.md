@@ -1,4 +1,4 @@
-🗺️ Google Places Demo – Quick Start
+Google Places Demo – Quick Start
 1. Add Google Maps API Key
 
 in app.json add your google map API key
@@ -14,11 +14,11 @@ in app.json add your google map API key
     }
   }
 }
-❗️Replace YOUR_GOOGLE_MAPS_API_KEY with your actual key.
+Replace YOUR_GOOGLE_MAPS_API_KEY with your actual key.
 
 2. Install Dependencies
 npm install
 3. Start the App
       npm run start
-Enjoy! 🎉
+Enjoy! 
 
