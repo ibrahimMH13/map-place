@@ -36,7 +36,7 @@ public class AppDelegate: ExpoAppDelegate {
 
 // @generated begin react-native-maps-init - expo prebuild (DO NOT MODIFY) sync-566861e0e77c878f8f132d296b6c16c65a3a8d66
 #if canImport(GoogleMaps)
-GMSServices.provideAPIKey("AIzaSyDZXcMJHVLUgkejajY1tEpX5gfZzbORxH8")
+GMSServices.provideAPIKey("")
 #endif
 // @generated end react-native-maps-init
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
